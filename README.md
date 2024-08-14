@@ -2,11 +2,11 @@
 C++ Extension for Building Gnome Appllications in PHP
 
 
-*thanks to*
- - *Copernica PHP-CPP*
+### thanks to
+#### Copernica PHP-CPP
   - https://github.com/CopernicaMarketingSoftware/PHP-CPP
   - https://www.php-cpp.com/
 
- - *scorninpc*
+ #### scorninpc
   - https://github.com/scorninpc/php-gtk3
   - https://github.com/scorninpc/php-gtk3
